@@ -14,3 +14,5 @@ It can lead to increased engagement, better performance metrics, and ultimately,
 ### Technologies used
 * - Anaconda
 * - Jupyter Notebooks
+
+![instagram reach forecasting](instagram_reach_forecasting_powerbi.png)
